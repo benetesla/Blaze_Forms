@@ -32,7 +32,7 @@ Este é um exemplo simples de um formulário em React que utiliza o hook useStat
    ```bash
    npm run dev 
    ```
-5. Abra o navegador e acesse [http://localhost:3000](http://localhost:3000) para ver o formulário em ação.
+5. Abra o navegador e acesse [http://localhost](http://localhost:3000):5173 para ver o formulário em ação.
 
 ## Funcionalidades
 
