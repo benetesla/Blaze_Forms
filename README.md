@@ -14,13 +14,13 @@ Este é um exemplo simples de um formulário em React que utiliza o hook useStat
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/react-form-exemplo.git
+   git clone https://github.com/benetesla/Blaze_Forms.git
 ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd react-form-exemplo
+   cd Blaze_Forms
    ```
 3. Instale as dependências:
 
@@ -30,7 +30,7 @@ Este é um exemplo simples de um formulário em React que utiliza o hook useStat
 4. Inicie o servidor de desenvolvimento:
 
    ```bash
-   npm start
+   npm run dev 
    ```
 5. Abra o navegador e acesse [http://localhost:3000](http://localhost:3000) para ver o formulário em ação.
 
